@@ -130,12 +130,7 @@ The following python packages are used in seq2seq-chatbot:
 ## Roadmap
 See the [Roadmap Page](doc_files/roadmap.md)
   
-## Acknowledgements
-This implementation was inspired by:
-- Kirill Eremenko & Hadelin de Ponteves [Deep NLP Udemy course](https://www.udemy.com/chatbot/)
-- TensorFlow's [Neural Machine Translation (seq2seq) Tutorial](https://www.tensorflow.org/tutorials/seq2seq)
-  - [TF NMT GitHub](https://github.com/tensorflow/nmt)
-  
+
 ## Relevant papers
 1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 
